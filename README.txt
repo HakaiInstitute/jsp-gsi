@@ -4,7 +4,14 @@ Genetic stock identification data from the Hakai Institute Juvenile Salmon Progr
 ## Summary
 
 A subset of juvenile sockeye salmon are assigned a probability of originating from a freshwater system using genetic stock identification.
----
+
+## Files
+
+The 'combined_GSI.xlsx' file contains all years of available GSI data from the Hakai JSP along with tables to determine fish capture location and date.
+
+"mskHAKAI_####_2022-##-##.xlsx" files are the component child files for each run of data through the stock ID software (CBAYES) that were combined to produce the 'combined_GSI.xlsx' file.
+
+"DNA Backgrounder...doc" file contains information on how to interpret results as well as methods used.
 
 ## Methods
 
