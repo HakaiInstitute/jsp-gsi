@@ -3,11 +3,16 @@ Genetic stock identification data from the Hakai Institute Juvenile Salmon Progr
 
 ## Summary
 
-A subset of juvenile sockeye salmon are assigned a probability of originating from a freshwater system using genetic stock identification.
+A subset of juvenile sockeye salmon collected by the JSP are assigned a probability of originating from a freshwater system using genetic stock identification conducted at the Molecular Genetics Lab at the Pacific Biological Station in Nanaimo, BC. 
+
+## Folders
+
+Two folders exist for samples that have been analyzed against different genetic baselines. 'coastwide040118.bse baseline results' folder contains the most years of data. The 'coastwide
+baseline results contains only results from 2022 and 2023 that used a smaller baseline to be comparable with the Pacific Salmon Commissions standard for in-season analyses.
 
 ## Files
 
-The 'combined_GSI.xlsx' file contains all years of available GSI data from the Hakai JSP along with tables to determine fish capture location and date.
+The "all_years_combined_individual_ids.csv" file contains all years of available GSI data from the Hakai JSP using the coastwide040118 baseline.
 
 "mskHAKAI_####_2022-##-##.xlsx" files are the component child files for each run of data through the stock ID software (CBAYES) that were combined to produce the 'combined_GSI.xlsx' file.
 
